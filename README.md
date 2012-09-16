@@ -1,4 +1,4 @@
 dropbox-rottentomatoes
 ======================
 
-Uses Rotten Tomatoes API to find the top movies for the week and dump them into an HTML file on Dropbox.
+A simple Python script that uses Rotten Tomatoes and Dropbox APIs to find the top movies for the week and dump them into an HTML file on Dropbox.
